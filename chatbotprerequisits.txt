@@ -1,0 +1,10 @@
+Chat Bot  Using open AI llm 
+
+Software Requirnments:
+
+1.Python
+2.Pycharm 
+3.libraries  pip install streamlit pypdf2 langchain faiss-cpu
+
+Streamlit --  lib helps to create UI using python code (web interface) . 
+
